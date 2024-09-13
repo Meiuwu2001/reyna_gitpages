@@ -13,7 +13,6 @@
     "web-vitals": "^2.1.4"
    
   },
-   "homepage": "https://meiuwu2001.github.io/reyna_gitpages",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
